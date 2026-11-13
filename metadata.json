@@ -1,0 +1,6 @@
+{
+  "name": "TrueVerify",
+  "description": "Product authenticity verification platform using unique serial numbers and QR code scanning for instant authentication.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
